@@ -11,7 +11,7 @@ This repository contains code and data needed to reproduce the article:
 - Vertebrate_UV_MetaAnalysis_FINAL.csv - Raw data used for the analysis.
 
 **Analysis workflow**
-- [supplementary_information.html](https://nicholaswunz.github.io/chytrid-meta-analysis/supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, creating figures, and supplementary material for statistical outcomes, additional figures, and descriptions from the main document.
+- [supplementary_information.html](https://nicholaswunz.github.io/uv-meta-analysis/supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, creating figures, and supplementary material for statistical outcomes, additional figures, and descriptions from the main document.
 
 **Files**
 - 56461_UVB3_Mean_UV-B_of_Highest_Month.asc - The glUV data for the mean UV-B irradiation of the highest month (https://www.ufz.de/gluv/)
