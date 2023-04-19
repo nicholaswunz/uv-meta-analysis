@@ -5,7 +5,7 @@ Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 This repository contains code and data needed to reproduce the article:
 
-**Downie A. T., Wu N. C., Cramp R. L., & Franklin C. E.** (In submission) b-lethal consequences of ultraviolet radiation exposure on vertebrates: synthesis through meta-analysis.
+**Downie A. T., Wu N. C., Cramp R. L., & Franklin C. E.** (In submission) Sub-lethal consequences of ultraviolet radiation exposure on vertebrates: synthesis through meta-analysis.
 
 **Raw data**
 - Vertebrate_UV_MetaAnalysis_FINAL.csv - Raw data used for the analysis.
