@@ -5,17 +5,17 @@ Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 This repository contains code and data needed to reproduce the article:
 
-**Downie A. T., Wu N. C., Cramp R. L., & Franklin C. E.** (2023) Sub-lethal consequences of ultraviolet radiation exposure on vertebrates: synthesis through meta-analysis. DOI: [![DOI](https://zenodo.org/badge/DOI/10.1111/geb.16848.svg)](https://doi.org/10.1111/gcb.16848)
+**Downie A. T., Wu N. C., Cramp R. L., & Franklin C. E.** (2023) Sub-lethal consequences of ultraviolet radiation exposure on vertebrates: synthesis through meta-analysis, **29**, 6620-6634. DOI: [![DOI](https://zenodo.org/badge/DOI/10.1111/geb.16848.svg)](https://doi.org/10.1111/gcb.16848)
 
 
 **Raw data**
-- Vertebrate_UV_MetaAnalysis_FINAL.csv - Raw data used for the analysis.
+- `Vertebrate_UV_MetaAnalysis_FINAL.csv` - Raw data used for the analysis.
 
 **Analysis workflow**
-- [supplementary_information.html](https://nicholaswunz.github.io/uv-meta-analysis/supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, creating figures, and supplementary material for statistical outcomes, additional figures, and descriptions from the main document.
+- [`supplementary_information.html`](https://nicholaswunz.github.io/uv-meta-analysis/supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, creating figures, and supplementary material for statistical outcomes, additional figures, and descriptions from the main document.
 
 **Files**
-- 56461_UVB3_Mean_UV-B_of_Highest_Month.asc - The glUV data for the mean UV-B irradiation of the highest month (https://www.ufz.de/gluv/)
+- `56461_UVB3_Mean_UV-B_of_Highest_Month.asc` - The glUV data for the mean UV-B irradiation of the highest month (https://www.ufz.de/gluv/)
 - ne_50m_land - Shape file used to create Figure 1.
 
 ## Abstract
